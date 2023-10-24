@@ -1,0 +1,125 @@
+{
+    "pizzas": [
+        {
+            "id": 1,
+            "name": "Margarita",
+            "description": "Tomato sauce, mozzarella cheese, and fresh basil",
+            "price": 9.99
+        },
+        {
+            "id": 2,
+            "name": "Pepperoni",
+            "description": "Tomato sauce, mozzarella cheese, and pepperoni",
+            "price": 11.99
+        },
+        {
+            "id": 3,
+            "name": "Hawaiian",
+            "description": "Tomato sauce, mozzarella cheese, ham, and pineapple",
+            "price": 12.99
+        },
+        {
+            "id": 4,
+            "name": "Meat Lovers",
+            "description": "Tomato sauce, mozzarella cheese, pepperoni, sausage, bacon, and ham",
+            "price": 14.99
+        },
+        {
+            "id": 5,
+            "name": "Veggie",
+            "description": "Tomato sauce, mozzarella cheese, mushrooms, onions, green peppers, and black olives",
+            "price": 13.99
+        },
+        {
+            "id": 6,
+            "name": "BBQ Chicken",
+            "description": "BBQ sauce, mozzarella cheese, grilled chicken, and red onions",
+            "price": 12.99
+        },
+        {
+            "id": 7,
+            "name": "Supreme",
+            "description": "Tomato sauce, mozzarella cheese, pepperoni, sausage, mushrooms, onions, green peppers, and black olives",
+            "price": 15.99
+        },
+        {
+            "id": 8,
+            "name": "Buffalo Chicken",
+            "description": "Buffalo sauce, mozzarella cheese, grilled chicken, and red onions",
+            "price": 12.99
+        },
+        {
+            "id": 9,
+            "name": "White Pizza",
+            "description": "Olive oil, garlic, ricotta cheese, mozzarella cheese, and fresh basil",
+            "price": 11.99
+        },
+        {
+            "id": 10,
+            "name": "Mushroom",
+            "description": "Tomato sauce, mozzarella cheese, and mushrooms",
+            "price": 10.99
+        },
+        {
+            "id": 11,
+            "name": "Sausage",
+            "description": "Tomato sauce, mozzarella cheese, and sausage",
+            "price": 11.99
+        },
+        {
+            "id": 12,
+            "name": "Bacon",
+            "description": "Tomato sauce, mozzarella cheese, and bacon",
+            "price": 11.99
+        },
+        {
+            "id": 13,
+            "name": "Four Cheese",
+            "description": "Tomato sauce, mozzarella cheese, parmesan cheese, feta cheese, and gorgonzola cheese",
+            "price": 13.99
+        },
+        {
+            "id": 14,
+            "name": "Pesto",
+            "description": "Pesto sauce, mozzarella cheese, and cherry tomatoes",
+            "price": 12.99
+        },
+        {
+            "id": 15,
+            "name": "Spinach",
+            "description": "Tomato sauce, mozzarella cheese, spinach, and feta cheese",
+            "price": 12.99
+        },
+        {
+            "id": 16,
+            "name": "Garlic Chicken",
+            "description": "Olive oil, garlic, mozzarella cheese, grilled chicken, and red onions",
+            "price": 12.99
+        },
+        {
+            "id": 17,
+            "name": "Artichoke",
+            "description": "Tomato sauce, mozzarella cheese, artichoke hearts, and black olives",
+            "price": 13.99
+        },
+        {
+            "id": 18,
+            "name": "Tomato",
+            "description": "Tomato sauce, mozzarella cheese, and fresh tomatoes",
+            "price": 10.99
+        },
+        {
+            "id": 19,
+            "name": "Chicken Alfredo",
+            "description": "Alfredo sauce, mozzarella cheese, grilled chicken, and broccoli",
+            "price": 13.99
+        },
+        {
+            "id": 20,
+            "name": "Buffalo Chicken Ranch",
+            "description": "Buffalo sauce, ranch dressing, mozzarella cheese, grilled chicken, and red onions",
+            "price": 12.99
+        }
+    ]
+}
+         
